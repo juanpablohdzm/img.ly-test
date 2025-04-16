@@ -1,0 +1,3 @@
+D:/CPP/img.ly-test/cmake-build-debug/CMakeFiles/img_ly_test.dir
+D:/CPP/img.ly-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CPP/img.ly-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
